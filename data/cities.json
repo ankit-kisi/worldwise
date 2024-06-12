@@ -49,39 +49,15 @@
       }
     },
     {
-      "id": "e723",
-      "cityName": "Monaco",
-      "country": "Monaco",
-      "emoji": "🇲🇨",
-      "date": "2024-06-12T18:15:00.000Z",
-      "notes": "yesss",
+      "id": "56e1",
+      "cityName": "Al Dhafra",
+      "country": "United Arab Emirates (the)",
+      "emoji": "🇦🇪",
+      "date": "2024-06-10T18:15:00.000Z",
+      "notes": "Yes",
       "position": {
-        "lat": "43.725459774177835",
-        "lng": "7.456970214843751"
-      }
-    },
-    {
-      "id": "947e",
-      "cityName": "Cagli",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2024-07-02T18:15:00.000Z",
-      "notes": "Cagliiiii",
-      "position": {
-        "lat": "43.5505387755674",
-        "lng": "12.694702148437502"
-      }
-    },
-    {
-      "id": "9133",
-      "cityName": "London",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2024-06-26T18:15:00.000Z",
-      "notes": "Best Food!!",
-      "position": {
-        "lat": "51.515579783755925",
-        "lng": "-0.05493164062500001"
+        "lat": "23.443088931121785",
+        "lng": "54.1845703125"
       }
     }
   ]
