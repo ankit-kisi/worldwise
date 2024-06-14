@@ -47,18 +47,6 @@
         "lat": "48.84845083589778",
         "lng": "2.3428344726562504"
       }
-    },
-    {
-      "id": "56e1",
-      "cityName": "Al Dhafra",
-      "country": "United Arab Emirates (the)",
-      "emoji": "🇦🇪",
-      "date": "2024-06-10T18:15:00.000Z",
-      "notes": "Yes",
-      "position": {
-        "lat": "23.443088931121785",
-        "lng": "54.1845703125"
-      }
     }
   ]
 }
